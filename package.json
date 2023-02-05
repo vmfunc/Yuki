@@ -1,0 +1,23 @@
+{
+  "name": "yuukitotal",
+  "version": "1.0.0",
+  "description": "Discord bot that scans files and folders to VirusTotal meow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "deploy": "node scripts/deploy-commands.js"
+  },
+  "author": "initmd",
+  "license": "SEE LICENSE IN LICENSE.MD",
+  "dependencies": {
+    "api": "^5.0.7",
+    "discord.js": "^14.7.1",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "virustotal-api": "^1.1.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.33.0"
+  }
+}
