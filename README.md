@@ -1,14 +1,3 @@
-![Yuki](https://media.discordapp.net/attachments/735169921314717726/1071902347367809024/imgbin_yuki-nagato-kyon-pain-haruhi-suzumiya-png.png)
-
-
-# Yuki ~🌟
-
-Yuki is a discord bot made to scan files with VirusTotal because I can't trust people on my Discord Server 🐇  
-This was made in around 5 hours so please don't be too harsh on the code quality meow
-
-
-
-
 ## Installation
 
 Install the project and run it with node
@@ -43,16 +32,6 @@ To run this project, you will need to add the following environment variables to
 `guildId` : The discord server's ID
 
 `apikey` : Your VirusTotal API key, you can grab one on https://www.virustotal.com/gui/join-us
-
-
-## Demo
-
-The bot is live on https://discord.gg/hijack
-
-
-## Authors
-
-- [@initmd](https://www.github.com/initmd)
 
 
 ## License
